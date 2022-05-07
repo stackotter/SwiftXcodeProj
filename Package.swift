@@ -3,20 +3,20 @@
 import PackageDescription
 
 let package = Package(
-    name: "XcodeProj",
+    name: "SwiftXcodeProj",
     products: [
-        .library(name: "XcodeProj", targets: ["XcodeProj"]),
+        .library(name: "SwiftXcodeProj", targets: ["SwiftXcodeProj"]),
     ],
     dependencies: [
         .package(url: "https://github.com/tadija/AEXML.git", .upToNextMinor(from: "4.6.1")),
         .package(url: "https://github.com/kylef/PathKit.git", .upToNextMinor(from: "1.0.0")),
     ],
     targets: [
-        .target(name: "XcodeProj",
+        .target(name: "SwiftXcodeProj",
                 dependencies: [
                     "PathKit",
                     "AEXML",
                 ]),
-        .testTarget(name: "XcodeProjTests", dependencies: ["XcodeProj"]),
+        .testTarget(name: "XcodeProjTests", dependencies: ["SwiftXcodeProj"]),
     ]
 )

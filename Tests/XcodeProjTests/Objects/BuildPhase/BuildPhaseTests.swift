@@ -1,5 +1,5 @@
 import Foundation
-import XcodeProj
+import SwiftXcodeProj
 import XCTest
 
 class BuildPhaseTests: XCTestCase {

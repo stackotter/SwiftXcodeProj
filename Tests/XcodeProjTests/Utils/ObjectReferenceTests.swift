@@ -1,6 +1,6 @@
 import Foundation
 import XCTest
-@testable import XcodeProj
+@testable import SwiftXcodeProj
 
 class ObjectReferenceTests: XCTestCase {
     let xcodeReferenceGenerator = ReferenceGenerator(outputSettings: PBXOutputSettings(projReferenceFormat: .xcode))

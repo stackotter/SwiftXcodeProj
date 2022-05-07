@@ -1,6 +1,6 @@
 import Foundation
 import XCTest
-@testable import XcodeProj
+@testable import SwiftXcodeProj
 
 final class PBXAggregateTargetTests: XCTestCase {
     func test_isa_returnsTheCorrectValue() {

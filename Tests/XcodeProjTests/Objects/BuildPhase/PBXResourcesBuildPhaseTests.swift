@@ -1,5 +1,5 @@
 import Foundation
-import XcodeProj
+import SwiftXcodeProj
 import XCTest
 
 final class PBXResourcesBuildPhaseTests: XCTestCase {

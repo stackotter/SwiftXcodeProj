@@ -1,5 +1,5 @@
 import Foundation
-@testable import XcodeProj
+@testable import SwiftXcodeProj
 
 extension PBXProj {
     static func fixture(rootObject: PBXProject? = PBXProject.fixture(),

@@ -1,5 +1,5 @@
 import Foundation
-@testable import XcodeProj
+@testable import SwiftXcodeProj
 
 extension PBXGroup {
     static func fixture(children _: [PBXFileElement] = [],

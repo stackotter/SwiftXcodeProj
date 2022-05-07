@@ -1,7 +1,7 @@
 import Foundation
 import XCTest
 
-@testable import XcodeProj
+@testable import SwiftXcodeProj
 
 final class XCRemoteSwiftPackageReferenceTests: XCTestCase {
     func test_init() throws {

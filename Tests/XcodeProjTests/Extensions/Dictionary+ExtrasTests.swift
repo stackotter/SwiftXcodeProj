@@ -1,6 +1,6 @@
 import Foundation
 import PathKit
-import XcodeProj
+import SwiftXcodeProj
 import XCTest
 
 class DictionaryExtrasTests: XCTestCase {

@@ -1,6 +1,6 @@
 import Foundation
 import PathKit
-import XcodeProj
+import SwiftXcodeProj
 
 func fixturesPath() -> Path {
     Path(#file).parent().parent().parent().parent() + "Fixtures"

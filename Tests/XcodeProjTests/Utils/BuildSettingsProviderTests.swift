@@ -1,6 +1,6 @@
 import Foundation
 import XCTest
-@testable import XcodeProj
+@testable import SwiftXcodeProj
 
 class BuildSettingProviderTests: XCTestCase {
     func test_targetSettings_iosAplication() {

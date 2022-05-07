@@ -41,7 +41,7 @@ Optionally, if you only plan to play with the library, you can do some scripting
 ```swift
 #!/usr/bin/swift sh
 import Foundation
-import XcodeProj  // @tuist
+import SwiftXcodeProj  // @tuist
 import PathKit
 ```
 
@@ -54,7 +54,7 @@ The first thing that we are going to do is reading an existing project. A projec
 ```swift
 import Foundation
 import PathKit
-import XcodeProj
+import SwiftXcodeProj
 
 let path = Path("/path/to/my/Project.xcodeproj") // Your project path
 let xcodeproj = XcodeProj(path: path)

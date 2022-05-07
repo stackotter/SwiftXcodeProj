@@ -1,5 +1,5 @@
 import Foundation
-@testable import XcodeProj
+@testable import SwiftXcodeProj
 
 extension XCBuildConfiguration {
     static func fixture(name: String = "Debug") -> XCBuildConfiguration {
