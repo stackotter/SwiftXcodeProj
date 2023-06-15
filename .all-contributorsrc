@@ -166,6 +166,105 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "mtj0928",
+      "name": "matsuji",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12427733?v=4",
+      "profile": "https://github.com/mtj0928",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Bogdan-Belogurov",
+      "name": "Bogdan Belogurov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39379705?v=4",
+      "profile": "https://github.com/Bogdan-Belogurov",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "cgrindel",
+      "name": "Chuck Grindel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/159968?v=4",
+      "profile": "https://chuckgrindel.com/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "michaelmcguire",
+      "name": "Michael McGuire",
+      "avatar_url": "https://avatars.githubusercontent.com/u/429790?v=4",
+      "profile": "https://twitter.com/MonocularVision",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "CrazyFanFan",
+      "name": "C-凡",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15794964?v=4",
+      "profile": "https://github.com/CrazyFanFan",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "maxwellE",
+      "name": "Maxwell Elliott",
+      "avatar_url": "https://avatars.githubusercontent.com/u/566328?v=4",
+      "profile": "http://www.tinder.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "brentleyjones",
+      "name": "Brentley Jones",
+      "avatar_url": "https://avatars.githubusercontent.com/u/158658?v=4",
+      "profile": "https://brentleyjones.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "teameh",
+      "name": "Teameh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1330668?v=4",
+      "profile": "https://www.linkedin.com/in/tiemevanveen",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "technocidal",
+      "name": "Johannes Ebeling",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14994778?v=4",
+      "profile": "https://technocidal.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "baekteun",
+      "name": "baegteun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74440939?v=4",
+      "profile": "https://baegteun.com",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "AlexKobachiJP",
+      "name": "Alex Kovács",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103150233?v=4",
+      "profile": "https://kobachi.jp",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -173,5 +272,6 @@
   "projectOwner": "tuist",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "angular"
 }
